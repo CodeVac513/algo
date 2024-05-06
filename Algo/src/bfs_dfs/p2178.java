@@ -74,8 +74,6 @@ public class p2178 {
     }
 
     static int bfs(int startY,int startX) {
-
-
         visited[startY-1][startX-1] = true;
         q.offer(new p2178Node(startY,startX,1));
         while (!q.isEmpty()) {
