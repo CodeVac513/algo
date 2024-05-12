@@ -1,4 +1,4 @@
-package solving;
+package binary_search;
 
 import java.io.*;
 import java.util.LinkedList;
